@@ -1,3 +1,5 @@
+Support and more resources: https://discord.gg/8WYWg8aw37
+
 Añada la carpeta *BUILD* en: ox_inventory\web,
 Cambia el fxmanifest.lua por el de la carpeta.
 
